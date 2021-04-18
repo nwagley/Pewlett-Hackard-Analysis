@@ -8,6 +8,8 @@ retiring employees and to identify those retiring in a mentorship program.
 ### Results 
 after looking at the data we came up with the following conclusions 
 
+<img width="250" alt="data-Module-7-Challenge-Image-3" src="https://user-images.githubusercontent.com/79885849/115160632-39661880-a067-11eb-92f4-5a6e29b31bd3.png">
+
 We can see the number of employees who are about to retire based on their most recent title. From the above list we can see that there are approx, 30 
 thousand senior engineers, 29 thousand all senior staff 15 thousand engineers, 12 thousand regular staff, 5 thousand Leads , almost 2 thousand assistant 
 and 2 managers. 
