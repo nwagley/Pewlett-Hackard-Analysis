@@ -14,6 +14,8 @@ We can see the number of employees who are about to retire based on their most r
 thousand senior engineers, 29 thousand all senior staff 15 thousand engineers, 12 thousand regular staff, 5 thousand Leads , almost 2 thousand assistant 
 and 2 managers. 
 
+<img width="583" alt="data-Module-7-Challenge-Image-2" src="https://user-images.githubusercontent.com/79885849/115160669-73371f00-a067-11eb-9a47-4db1b21ff9b6.png">
+
 ### Summary 
 When we look at the task given by Bobby and the data provided by the company itself, we can see that there is a lot of people retiring at the same time 
 hence called the " silver tsunami " looking at the above table we can add the number roles and find out how many roles there needs to be filled. There will be 
